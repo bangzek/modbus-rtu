@@ -2,7 +2,7 @@ module github.com/bangzek/modbus-rtu
 
 go 1.25.4
 
-retract [v0.0.0-20251210122733-f254f8f23dcf, v0.4.0]
+retract [v0.0.0-00000000000000-000000000000, v0.5.0]
 
 require (
 	github.com/albenik/go-serial/v2 v2.6.1
